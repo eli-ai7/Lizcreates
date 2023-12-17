@@ -6,12 +6,12 @@ import Contactpage from './Contactpage';
 import Projectspage from './Projectspage';
 
 import {
-  createHashRouter,
+  createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
 import reportWebVitals from './reportWebVitals';
 
-const router = createHashRouter([
+const router = createBrowserRouter([
   {
     path: "/",
     element: <App />,
@@ -26,11 +26,11 @@ const router = createHashRouter([
   },
 ]);
 
-ReactDOM.render(
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
   <React.StrictMode>
     <RouterProvider router={router}/>
-  </React.StrictMode>,
-  document.getElementById('root')
+  </React.StrictMode>
 );
 
 
