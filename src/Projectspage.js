@@ -34,7 +34,7 @@ const slowerTextVariants = {
 
 const Projectspage = () => {
     return (
-        <div className='App'>
+      <div className="Projectspage">
          <div className="backbutton1">
          <a href="/" className="button-link3">
             BACK
