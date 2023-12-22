@@ -1,15 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
-import Contactpage from './Contactpage';
-import Projectspage from './Projectspage';
+import App from './App.js';
+import Contactpage from './Contactpage.js';
+import Projectspage from './Projectspage.js';
 
 import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
-import reportWebVitals from './reportWebVitals';
+import reportWebVitals from './reportWebVitals.js';
 
 const router = createBrowserRouter([
   {

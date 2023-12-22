@@ -48,15 +48,13 @@ html, body {
   height: 62px;
   display: flex;
   align-items: center;
-  justify-content: center}
+  justify-content: center
+}
 
   .button-link {
-    display: inline-block;
-    padding: 10px 20px;
     background-color: #001353;
     color: #ffffff;
     text-decoration: none;
-    border-radius: 8px;
     cursor: pointer;
   }
   .projects, .projects * {
@@ -76,12 +74,9 @@ html, body {
     justify-content: center
   }
   .button-link2{
-    display: inline-block;
-    padding: 10px 20px;
     background-color: #001353;
     color: #ffffff;
     text-decoration: none;
-    border-radius: 8px;
     cursor: pointer;}
 
   .title1{
@@ -474,15 +469,9 @@ z-index: 6;
   font-size: 18px;
   font-weight: 500;
 }
+
 @media (max-width: 600px) {
   /*MAIN PAGE*/
-  .contact {
-    font-size: 18px;
-  }
-
-  .projects{
-    font-size: 18px;
-  }
   .title1{
     font-size: 30px;
     width: 75%;
@@ -515,18 +504,13 @@ z-index: 6;
   }
 
 /*CONTACT PAGE*/
-.backbutton1 {
-  font-size: 18px;}
-
   .title2{
     font-size: 30px;
     width: 75%;
     height: 75%;
   }
+
 /*PROJECTSPAGE*/
-.backbutton1 {
-  font-size: 18px;
-}
 
 .container{
   align-items: left;

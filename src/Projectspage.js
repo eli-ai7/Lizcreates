@@ -1,5 +1,6 @@
 import React from 'react'
 import './App.css';
+import { Link } from 'react-router-dom';
 import { motion } from "framer-motion";
 
 const textVariants = {
@@ -36,9 +37,9 @@ const Projectspage = () => {
     return (
       <div className="Projectspage">
          <div className="backbutton1">
-         <a href="/" className="button-link3">
+         <Link to="/" className="button-link3">
             BACK
-         </a>
+         </Link>
       </div>   
       
       <motion.div className="container"

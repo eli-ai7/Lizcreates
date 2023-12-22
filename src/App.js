@@ -1,20 +1,20 @@
 import React from 'react';
 import './App.css';
+import {Link} from "react-router-dom";
 
 function App (){
   return (
     <div className="App">
       <div className="contact">
-      <a href="/Contactpage" className="button-link">
+      <Link to="/Contactpage" className="button-link">
   CONTACT
-       </a>
+       </Link>
       </div>
-      <div className='projects'>
-        <a href='/Projectspage' className='button-link2'>
+      <div className="projects">
+        <Link to="/Projectspage" className="button-link2">
   PROJECTS
-        </a>
+        </Link>
       </div>
-      
       
       <div className='title1'>
       Elizabeth Akyirem

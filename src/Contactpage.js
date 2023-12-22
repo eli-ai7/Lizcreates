@@ -1,13 +1,14 @@
 import React from 'react'
 import './App.css';
+import { Link } from 'react-router-dom';
 
 function Contactpage() {
     return (
         <div className='App'>
             <div className="backbutton1">
-        <a href="/" className="button-link3">
+        <Link to="/" className="button-link3">
         BACK
-        </a>
+        </Link>
       </div>
       <div className='title2'>Contact Me:</div>
      
