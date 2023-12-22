@@ -525,7 +525,8 @@ z-index: 6;
   }
 /*PROJECTSPAGE*/
 .backbutton1 {
-  font-size: 18px;}
+  font-size: 18px;
+}
 
 .container{
   align-items: left;
@@ -535,7 +536,7 @@ z-index: 6;
   height: 45vh;
 }
 .img img {
-  width: 190px;
+  width: 180px;
   height: 130px;
   margin-right: 2px;
 }
@@ -562,7 +563,7 @@ z-index: 6;
 }
 
 .img2 img{
-  max-width: 60px;
+  max-width: 55px;
   max-height: 150;
   margin-right: 2px;
 }
