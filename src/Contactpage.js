@@ -18,11 +18,14 @@ function Contactpage() {
     		<a href="mailto:e.akyirem@gmail.com" class="email-e-akyirem-gmail-com-linked-in-elizabeth-akyirem-span2">
   e.akyirem@gmail.com<br/>
 </a>
-  	<span class="email-e-akyirem-gmail-com-linked-in-elizabeth-akyirem-span3">LinkedIn:</span>
-  	<span class="email-e-akyirem-gmail-com-linked-in-elizabeth-akyirem-span4">:</span>
-  	<a href="https://www.linkedin.com/in/elizabeth-akyirem-642745177/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" class="email-e-akyirem-gmail-com-linked-in-elizabeth-akyirem-span5">
-  Elizabeth Akyirem
+  	<span class="email-e-akyirem-gmail-com-linked-in-elizabeth-akyirem-span3">LinkedIn: </span>
+  	<a href="https://www.linkedin.com/in/elizabeth-akyirem-642745177/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" class="email-e-akyirem-gmail-com-linked-in-elizabeth-akyirem-span4">
+  Elizabeth Akyirem<br/>
 </a>
+      <span class="email-e-akyirem-gmail-com-linked-in-elizabeth-akyirem-span5">Github: </span>
+      <a href="https://github.com/eli-ai7" class="email-e-akyirem-gmail-com-linked-in-elizabeth-akyirem-span6">
+        Elizabeth Akyirem
+      </a>
 </span>
 </div>
 <div class="line-8" >

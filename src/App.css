@@ -303,18 +303,26 @@ z-index: 6;
   font-weight: 900;
   }
   .email-e-akyirem-gmail-com-linked-in-elizabeth-akyirem-span4 {
-  color: #001353;
-  font-family: 'Jost-Black', sans-serif;
-  font-size: 20px;
-  font-weight: 900;
-  }
-  .email-e-akyirem-gmail-com-linked-in-elizabeth-akyirem-span5 {
   color: #5467a9;
   font-family: 'Jost-Black', sans-serif;
   font-size: 20px;
   font-weight: 900;
   text-decoration: underline;
   }
+  .email-e-akyirem-gmail-com-linked-in-elizabeth-akyirem-span5 {
+    color: #ffffff;
+    font-family: 'Jost-Black', sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+    }
+  .email-e-akyirem-gmail-com-linked-in-elizabeth-akyirem-span6 {
+    color: #5467a9;
+    font-family: 'Jost-Black', sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+    text-decoration: underline;
+    }
+
 .line-8, .line-8 * {
   box-sizing: border-box;
   }
