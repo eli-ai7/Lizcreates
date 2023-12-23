@@ -61,7 +61,7 @@ html, body {
     box-sizing: border-box;
   }
   .projects{
-    color: #FFF;
+    color: #ffffff;
     text-align: center;
     font-family: 'Jost-Medium', sans-serif;
     font-size: 20px;
@@ -470,44 +470,44 @@ z-index: 6;
   font-weight: 500;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 500px) {
   /*MAIN PAGE*/
   .title1{
     font-size: 30px;
-    width: 75%;
-    height: 75%;
+    width: 345px;
+    height: 175.5;
   }
   .description1 {
     font-size: 15px;
-    width: 95%;
-    height: 90%;
+    width: 683.1px;
+    height: 52.2px;
   }
   .line1{
-    border: 1px solid #ffffff00;
+    border-color: #ffffff00;
     }
   .line3{
-    border: 1px solid #ffffff00;
+    border-color: #ffffff00;
     }  
   .line2{
-    border: 1px solid #ffffff00;
+    border-color: #ffffff00;
     }
   .line4 {
-    border: 1px solid #ffffff00;
+    border-color: #ffffff00;
   }
 
   .line5 {
-    border: 1px solid #ffffff00;
+    border-color: #ffffff00;
   }
   
   .line6 {
-    border: 1px solid #ffffff00;
+    border-color: #ffffff00;
   }
 
 /*CONTACT PAGE*/
   .title2{
     font-size: 30px;
-    width: 75%;
-    height: 75%;
+    width: 345px;
+    height: 175.5px;
   }
 
 /*PROJECTSPAGE*/
